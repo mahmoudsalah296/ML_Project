@@ -1,7 +1,7 @@
 # ML_Project
 in this project we were give some data of IMDB, Amazon, Yelp reviwes with target output such that:  
 1- positive review
-0- negative review
+0- negative review  
 and our mission is to train a model with these data to predict future reviews as negative or positive
 
 ## Steps we followed
